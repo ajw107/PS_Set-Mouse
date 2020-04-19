@@ -27,6 +27,10 @@
         Reg Location: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Accessibility\CursorIndicator 
         Set Colour Key: IndicatorColor (RGB Hex nice purple is 0xff00bf)
         Set size Key: IndicatorType int 1-5
+#TODO:  Create a Set-Font function to set windows font sizes and weights for Windows
+        Titles, Status Bars, Menus, Icons, Messages, etc
+#TODO:  Upload this to github
+#TODO:  How do I set Workspace titles?
  #>
 <#
 	.SYNOPSIS
